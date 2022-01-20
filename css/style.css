@@ -17,6 +17,12 @@ body {
   cursor: pointer;
   height: 60px;
   width: 170px;
+  text-align: center;
+  padding-top: 13px;
+  padding-bottom: 18px;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
 }
 #link-button-btn {
   text-decoration: none;
